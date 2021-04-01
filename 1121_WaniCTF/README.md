@@ -1,5 +1,7 @@
 # WaniCTF
 
+WaniCTF は大阪大学 CTF サークル Wani Hackase が開催する初心者向けの CTF
+
 participant：187
 
 ## Web
